@@ -1,3 +1,9 @@
 .align-right {
     text-align: right;
 }
+
+.p {
+    font-family: "Verdana", Geneva, sans-serif;
+    font-size: 14;
+    font-weight: lighter;
+}
